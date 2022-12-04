@@ -15,7 +15,7 @@ description: >-
 
 
 
-A system that creates fractional ownership of rented real estate properties and having the investors earn dividend from the revenue collected as rent.
+A platform that creates fractional ownership of rented real estate properties and having the investors earn dividend from the revenue collected as rent.
 
 * Real estate properties are listed and tokenised as an NFT's but these are fractionalised into fungible tokens (ERC20).&#x20;
 * Investors buy the fractional tokens  to claim ownership of the property.
