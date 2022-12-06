@@ -2,7 +2,7 @@
 description: >-
   Collaboration project between blockchain developers to create a realestate
   fractional ownership system on Polygon, which would help investors to invest
-  in several rented real estate properties.
+  in several rented real estate properties and earn dividend through rent payments.
 ---
 
 # Description and Overview
